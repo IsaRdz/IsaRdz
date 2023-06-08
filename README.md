@@ -1,6 +1,6 @@
-### Hi I'm Isabel, welcome to my Github! 👋
+## Hi I'm Isabel, welcome to my Github! 👋
 
-# I'm a Systems Analyst focused on Front End development
+#### I'm a Systems Analyst focused on Front End development
 
 ### 📚 Languages & Tools 
 
