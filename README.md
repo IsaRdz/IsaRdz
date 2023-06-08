@@ -1,6 +1,6 @@
 ## Hi I'm Isabel, welcome to my Github! 👋
 
-#### I'm a Systems Analyst focused on Front End development
+##### I'm a Systems Analyst focused on Front End development
 
 ### 📚 Languages & Tools 
 
@@ -17,7 +17,7 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 
-## 📫 How To Reach Me
+### 📫 How To Reach Me
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:isabelrodriguez.dg@gmail.com)
 <a href="https://www.linkedin.com/in/isabelrod" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
