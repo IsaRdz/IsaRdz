@@ -1,6 +1,6 @@
 # Hi, I'm Isa
 ## Welcome to my Github! 👋
-<div align="center">
+<div align="right">
 	<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 
