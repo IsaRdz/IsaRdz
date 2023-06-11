@@ -1,6 +1,12 @@
+# Hi I'm Isabel, welcome to my Github! 👋
+
 ![Header](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-## Hi I'm Isabel, welcome to my Github! 👋
+
+<div align="center">
+	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
+</div>
+
 I'm a Systems Analyst focused on Front End development
 
 ### 📚 Languages & Tools 
