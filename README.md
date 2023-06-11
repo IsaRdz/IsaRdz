@@ -1,6 +1,7 @@
-## Hi I'm Isabel, welcome to my Github! 👋
+![Header](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-##### I'm a Systems Analyst focused on Front End development
+## Hi I'm Isabel, welcome to my Github! 👋
+I'm a Systems Analyst focused on Front End development
 
 ### 📚 Languages & Tools 
 
