@@ -1,12 +1,9 @@
 # Hi, I'm Isa
 ## Welcome to my Github! 👋
 
-<br />
-<br />
-
 👩🏻‍💻 I'm a Systems Analyst focused on Front End development
 
-<div align="right">
+<div align="center">
 	<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 
