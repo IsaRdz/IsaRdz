@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma"> <img src="https://img.shields.io/badge/-Corel-3C873A?style=flat-square&logo=coreldraw">
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaRdz&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How To Reach Me
 
